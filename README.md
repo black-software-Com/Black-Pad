@@ -1,5 +1,5 @@
 # Black-Pad
-Black Pad (Text Editor) ⬛
+### Black Pad (Text Editor) ⬛
 <hr>
 
 ### Coming Soon 💻☕
